@@ -1,0 +1,16 @@
+segment_sources:
+  PA63ACCCB:
+    type: origin_type
+    relation: translation
+    language: en
+  P7B36D315:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  3ed489ecc820496c8aa071ab26ddc48c:
+    PA63ACCCB: 16ca94a250ac407386cb12cbe2a3e158
+    P7B36D315: 1011a901ea8c4cc3879260ef27586ea8
+  8891cca4e8074fcdae88890d134365f1:
+    PA63ACCCB: bae70e7a764042cd93b493d616285a4b
+    P7B36D315: 64116b899e964eb284e4de6919958998

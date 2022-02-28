@@ -1,0 +1,22 @@
+segment_sources:
+  PA63ACCCB:
+    type: origin_type
+    relation: translation
+    language: en
+  P7B36D315:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  3c10d9264a1748b9abe7b4a3ac394984:
+    PA63ACCCB: 93a4051db434416aac54f1437cbe7c1b
+    P7B36D315: 46184706b6f14c659eadb3f158e1eec5
+  b5a82f0d722b4d9f959aa250c506e7cf:
+    PA63ACCCB: 2c71c64cfbfb4fb79cbc41cd5aebdc3e
+    P7B36D315: 4f2b7d17b55c4e6191028e63a3705faf
+  9b39821deebf4dd8a8faa6171805920e:
+    PA63ACCCB: 88fa650d68174875984320911ecd1648
+    P7B36D315: e1ae36a40a944df8b33d024cb7e48799
+  05842b02a36843b4ab0d44fa0d05be6e:
+    PA63ACCCB: bd56e612e90e41c98b2cba0c143d0d2e
+    P7B36D315: 2123f944a7734333b4bb966993d534bf
